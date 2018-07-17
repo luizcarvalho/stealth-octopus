@@ -1,4 +1,4 @@
-Stealth Octoputs give to [Stealth](https://hellostealth.com) more friendly route handle to proccess payloads.
+Stealth Octoputs give to [Stealth](https://hellostealth.com) more friendly route handle to process payloads.
 PS: This only a simple test of concept.
 
 ## Getting Started
